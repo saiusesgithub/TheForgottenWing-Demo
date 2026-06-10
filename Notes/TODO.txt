@@ -1,0 +1,11 @@
+Day 1: - 10/06/2026
+
+- Unity installed
+- Project created
+- Starter Assets imported
+- Player movement kinda working
+- Camera fixed to first-person-ish
+Next:
+- Clean FPS setup
+- Build cube corridor
+- Add flashlight
